@@ -10,7 +10,10 @@ public class ComplimentBook {
         "That's my favorite color, too! Great minds think alike.",
         "You're spectacular.",
         "I think you're fantastic.",
-        "You're the coolest person I know. And I know a lot of people."
+        "You're the coolest person I know. And I know a lot of people.",
+        "You're super smart!",
+        "You can do anything.",
+        "Nothing can stop you."
     };
 
     public String getRandomCompliment()
