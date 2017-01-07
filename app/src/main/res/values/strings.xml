@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Favorite Color</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_enter_your_favorite_color">Enter your favorite color</string>
+    <string name="text_tell_me">TELL ME SOMETHING ABOUT IT</string>
+    <string name="title_activity_compliment">ComplimentActivity</string>
+    <string name="key_color">color</string>
+    <string name="text_default_compliment">Hello, there!</string>
+    <string name="text_thank_you">THANK YOU! :-)</string>
+</resources>
